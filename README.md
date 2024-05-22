@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tinysheep007
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning C and js
-- 💞️ I’m looking to collaborate on any future projects
-- 📫 How to reach me ...
+- 👀 I’m interested in machine learning models and its real world applications.
+- 🌱 I’m currently learning spring SSM
+- 💞️ I’m looking to collaborate on any future projects, researches, or anything that's interesting
 
 <!---
 tinysheep007/tinysheep007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

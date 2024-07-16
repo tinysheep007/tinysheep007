@@ -27,7 +27,9 @@ Hi! I'm Peter Zhang, a masters of data science student in Upenn. I would love to
 Let's collab! You can find me at:
 
 Email: pzxiaomie@gmail.com    
-LinkedIn:[linkedin.com/in/peter-zhang-zihe/](https://www.linkedin.com/in/peter-zhang-zihe/)
+
+LinkedIn: [linkedin.com/in/peter-zhang-zihe/](https://www.linkedin.com/in/peter-zhang-zihe/)
+
 GitHub: [github.com/tinysheep007](https://github.com/tinysheep007)
 
 ## Fun Facts ⚡

@@ -10,10 +10,9 @@ Hi! I'm Peter Zhang, a masters of data science student in Upenn. I would love to
     Databases: MySQL
 
 ## Projects 🔭
+[College Recomannder](https://github.com/tinysheep007/college-recommender) : find your most suitable college.
 
-    [College Recomannder](https://github.com/tinysheep007/college-recommender) : find your most suitable college.
-    
-    [Year In Mood](https://github.com/tinysheep007/year-in-mood) : Track your moetions in a year.
+[Year In Mood](https://github.com/tinysheep007/year-in-mood) : Track your moetions in a year.
     
 
 ## Learning 🌱
@@ -27,16 +26,14 @@ Hi! I'm Peter Zhang, a masters of data science student in Upenn. I would love to
 
 Let's collab! You can find me at:
 
-    Email: pzxiaomie@gmail.com
-    LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/peter-zhang-zihe/)
-    GitHub: [GitHub Profile](https://github.com/tinysheep007)
+Email: pzxiaomie@gmail.com    
+LinkedIn:[linkedin.com/in/peter-zhang-zihe/](https://www.linkedin.com/in/peter-zhang-zihe/)
+GitHub: [github.com/tinysheep007](https://github.com/tinysheep007)
 
 ## Fun Facts ⚡
 
     1.I like movie recaps.
     2.My cat always scratch me .
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to say hi!
 
 
 <!---

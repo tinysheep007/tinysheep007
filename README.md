@@ -1,29 +1,29 @@
-### Hello!!! 😄
+## Hello!!! 😄
 
 Hi! I'm Peter Zhang, a masters of data science student in Upenn. I would love to built more useful products using machine learning and data science. I am still on the road to learn more about AI and excited to explore more of the unkown. 
 
-### Skills ✨
+## Skills ✨
 
     Programming Languages: Python, Java, Javascript, R
     Frameworks & Libraries: React, Node.js, Express
     Tools & Platforms: Git, Github, VS Code, Postman
     Databases: MySQL
 
-### Projects 🔭
+## Projects 🔭
 
     [College Recomannder](https://github.com/tinysheep007/college-recommender) : find your most suitable college.
     
     [Year In Mood](https://github.com/tinysheep007/year-in-mood) : Track your moetions in a year.
     
 
-### Learning 🌱
+## Learning 🌱
 . There's always so much to learn. 
 
     1. Transformers 
     2. Computer Vision
     3. Image Generation
 
-### Contact 📫
+## Contact 📫
 
 Let's collab! You can find me at:
 
@@ -31,7 +31,7 @@ Let's collab! You can find me at:
     LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/peter-zhang-zihe/)
     GitHub: [GitHub Profile](https://github.com/tinysheep007)
 
-### Fun Facts ⚡
+## Fun Facts ⚡
 
     1.I like movie recaps.
     2.My cat always scratch me .

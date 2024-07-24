@@ -1,6 +1,6 @@
 ## Hello!!! 😄
 
-Hi! I'm Peter Zhang, a masters of data science student in UPenn. I would love to built more useful products using machine learning and data science. I am still on the road to learn more about AI and excited to explore more of the unkown. 
+Hi! I'm Peter Zhang, a master's student in Data Science at UPenn. I am passionate about building useful products using machine learning and data science. I am continuously learning more about AI and am excited to explore the unknown.
 
 
 ## Projects 🔭
@@ -38,8 +38,8 @@ GitHub: [github.com/tinysheep007](https://github.com/tinysheep007)
 
 ## Fun Facts ⚡
 
-    1.I like movie recaps.
-    2.My cat always scratch me .
+    1. I like movie recaps.
+    2. My cat always scratches me.
 
 
 <!---

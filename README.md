@@ -6,7 +6,9 @@ Hi! I'm Peter Zhang, a masters of data science student in Upenn. I would love to
 ## Projects 🔭
 [College Recomannder](https://github.com/tinysheep007/college-recommender) : find your most suitable college.
 
-[Year In Mood](https://github.com/tinysheep007/year-in-mood) : Track your moetions in a year.
+[Year In Mood](https://github.com/tinysheep007/year-in-mood) : Track your mood in a year.
+
+[Numdle](https://github.com/tinysheep007/numdle) : 4-digit number geussing game(Similar to wordle).
 
     
 ## Skills ✨

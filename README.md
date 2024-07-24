@@ -1,6 +1,6 @@
 ## Hello!!! 😄
 
-Hi! I'm Peter Zhang, a masters of data science student in Upenn. I would love to built more useful products using machine learning and data science. I am still on the road to learn more about AI and excited to explore more of the unkown. 
+Hi! I'm Peter Zhang, a masters of data science student in UPenn. I would love to built more useful products using machine learning and data science. I am still on the road to learn more about AI and excited to explore more of the unkown. 
 
 
 ## Projects 🔭

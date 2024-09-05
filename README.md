@@ -4,6 +4,8 @@ Hi! I'm Peter Zhang, a master's student in Data Science at UPenn. I am passionat
 
 
 ## Projects 🔭
+[LangTrain](https://github.com/LangTrain/LangTrain-App) : AI Language Teacher.
+
 [College Recomannder](https://github.com/tinysheep007/college-recommender) : find your most suitable college.
 
 [Year In Mood](https://github.com/tinysheep007/year-in-mood) : Track your mood in a year.

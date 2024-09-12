@@ -18,7 +18,7 @@ Hi! I'm Peter Zhang, a master's student in Data Science at UPenn. I am passionat
     Programming Languages: Python, Java, Javascript, R
     Frameworks & Libraries: React, Node.js, Express
     Tools & Platforms: Git, Github, VS Code, Postman
-    Databases: MySQL
+    Databases: MySQL, Firebase
 
 
 ## Learning 🌱
